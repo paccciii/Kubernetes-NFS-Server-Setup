@@ -1,5 +1,5 @@
 # NFS-server-for-kubernetes-cluster
-Dynamic NFS storage provisioning in Kubernetes streamlines the creation and management of NFS volumes for your Kubernetes applications. It eliminates the need for manual intervention or pre-provisioned storage. The NFS provisioner dynamically creates persistent volumes (PVs) and associates them with persistent volume claims (PVCs),
+Dynamic NFS storage provisioning in Kubernetes streamlines the creation and management of NFS volumes for your Kubernetes applications. It eliminates the need for manual intervention or pre-provisioned storage. The NFS provisioner dynamically creates persistent volumes (PVs) and associates them with persistent volume claims (PVCs), making the process more efficient. If you have an external NFS share and want to use it in a pod or deployment, the nfs-subdir-external-provisioner provides a solution for effortlessly setting up a storage class to automate the management of your persistent volumes.
 
 
 
