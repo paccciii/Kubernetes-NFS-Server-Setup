@@ -7,7 +7,8 @@ Dynamic NFS storage provisioning in Kubernetes streamlines the creation and mana
 
 # Prerequisites
 
-    Pre-installed Kubernetes Cluster
+1. Pre-installed Kubernetes Cluster
+2. Root access to all nodes(servers) 
 	
 	
 	
